@@ -1,7 +1,6 @@
 package classroom;
 
 public class Taller4 {
-
     public static void main(String[] args) {
         Persona[] estudiantes1 = new Persona[3];
         estudiantes1[0] = new Persona(188220);
